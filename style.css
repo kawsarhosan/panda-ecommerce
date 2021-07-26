@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* .header-section{
+    background-color: #e2e2e2;
+} */
+/* .navbar{
+    /* display: flex;
+    align-items: center;
+    justify-content: space-between; */
+/* } */
+/* .navbar .search input {
+    font-size: 16px;
+    padding: 5px 15px;
+    border-radius: 20px;
+    width: 350px;
+    border: none;
+}
+.navbar .search input:focus{
+    outline: none;
+}
+.navbar ul{
+    list-style-type: none;
+    display: flex;
+    
+}
+.navbar ul li{
+    margin-right: 20px;
+    font-size: 20px;
+    
+    
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: #000;
+}  */
+
+/* slider section */
+
+.panda-bg{
+    background-color: #FEEAE9;
+}
+.card-content{
+    border-radius: 10px;
+}
