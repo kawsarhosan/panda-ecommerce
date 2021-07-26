@@ -48,3 +48,13 @@ body{
 .card-content{
     border-radius: 10px;
 }
+.panda-btn{
+    color: white;
+    background-color: #FF3887;
+    border: none;
+    padding: 8px 25px;
+    border-radius: 10px;
+}
+.input{
+    width: 50%;
+}
